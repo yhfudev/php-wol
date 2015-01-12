@@ -18,7 +18,7 @@ $LIST_COMPUTERS = array( array(
               0 => "Starting",
               2 => "Loading LSI MegaRAID firmware",
               4 => "BIOS continued",
-              6 => "Start OS",
+              6 => "Booting OS",
               8 => "Got IP address",
              10 => "Ready",
         ),
@@ -26,7 +26,7 @@ $LIST_COMPUTERS = array( array(
               0 => "Go to sleep",
               2 => "Disconnected",
               4 => "Release IP",
-              6 => "shutted down",
+              6 => "Shutted down",
         ),
     ), array(
         "name" => "home-hpdv4",

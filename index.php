@@ -729,6 +729,19 @@ for ($i = 0; $i < count($LIST_COMPUTERS); $i ++) {
 
 
   </div>
-</div> 
+
+
+  <div data-role="footer" data-theme="b" data-position="fixed" data-position="fullscreen">
+
+    <div class="wrapper">
+        <div id="copyright">
+            Copyright © 2015 <a href="https://github.com/yhfudev/">Yunhui Fu</a>.
+            Get the latest <a href="https://github.com/yhfudev/php-wol">php-wol</a>.
+        </div>
+    </div>
+  </div>
+
+</div>
+
 </body>
 </html>
